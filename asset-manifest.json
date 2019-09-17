@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/e-resume/static/css/main.bc121289.chunk.css",
+    "main.js": "/e-resume/static/js/main.7b9c69cd.chunk.js",
+    "main.js.map": "/e-resume/static/js/main.7b9c69cd.chunk.js.map",
+    "runtime~main.js": "/e-resume/static/js/runtime~main.f4a823fa.js",
+    "runtime~main.js.map": "/e-resume/static/js/runtime~main.f4a823fa.js.map",
+    "static/css/2.96121624.chunk.css": "/e-resume/static/css/2.96121624.chunk.css",
+    "static/js/2.fd9ebbf4.chunk.js": "/e-resume/static/js/2.fd9ebbf4.chunk.js",
+    "static/js/2.fd9ebbf4.chunk.js.map": "/e-resume/static/js/2.fd9ebbf4.chunk.js.map",
+    "index.html": "/e-resume/index.html",
+    "precache-manifest.248d5fe66265af01f54aa78483a1621c.js": "/e-resume/precache-manifest.248d5fe66265af01f54aa78483a1621c.js",
+    "service-worker.js": "/e-resume/service-worker.js",
+    "static/css/2.96121624.chunk.css.map": "/e-resume/static/css/2.96121624.chunk.css.map",
+    "static/css/main.bc121289.chunk.css.map": "/e-resume/static/css/main.bc121289.chunk.css.map",
+    "static/media/logo.svg": "/e-resume/static/media/logo.5d5d9eef.svg"
+  }
+}
