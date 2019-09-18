@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/e-resume/static/css/main.bc121289.chunk.css",
-    "main.js": "/e-resume/static/js/main.7b9c69cd.chunk.js",
-    "main.js.map": "/e-resume/static/js/main.7b9c69cd.chunk.js.map",
+    "main.js": "/e-resume/static/js/main.3245eda2.chunk.js",
+    "main.js.map": "/e-resume/static/js/main.3245eda2.chunk.js.map",
     "runtime~main.js": "/e-resume/static/js/runtime~main.f4a823fa.js",
     "runtime~main.js.map": "/e-resume/static/js/runtime~main.f4a823fa.js.map",
-    "static/css/2.96121624.chunk.css": "/e-resume/static/css/2.96121624.chunk.css",
-    "static/js/2.fd9ebbf4.chunk.js": "/e-resume/static/js/2.fd9ebbf4.chunk.js",
-    "static/js/2.fd9ebbf4.chunk.js.map": "/e-resume/static/js/2.fd9ebbf4.chunk.js.map",
+    "static/css/2.39758cbc.chunk.css": "/e-resume/static/css/2.39758cbc.chunk.css",
+    "static/js/2.cd02103c.chunk.js": "/e-resume/static/js/2.cd02103c.chunk.js",
+    "static/js/2.cd02103c.chunk.js.map": "/e-resume/static/js/2.cd02103c.chunk.js.map",
     "index.html": "/e-resume/index.html",
-    "precache-manifest.248d5fe66265af01f54aa78483a1621c.js": "/e-resume/precache-manifest.248d5fe66265af01f54aa78483a1621c.js",
+    "precache-manifest.b4838b193ae1f4bc8be006481bb135fd.js": "/e-resume/precache-manifest.b4838b193ae1f4bc8be006481bb135fd.js",
     "service-worker.js": "/e-resume/service-worker.js",
-    "static/css/2.96121624.chunk.css.map": "/e-resume/static/css/2.96121624.chunk.css.map",
+    "static/css/2.39758cbc.chunk.css.map": "/e-resume/static/css/2.39758cbc.chunk.css.map",
     "static/css/main.bc121289.chunk.css.map": "/e-resume/static/css/main.bc121289.chunk.css.map",
-    "static/media/logo.svg": "/e-resume/static/media/logo.5d5d9eef.svg"
+    "static/media/WX20190917-221410@2x.png": "/e-resume/static/media/WX20190917-221410@2x.f563b438.png",
+    "static/media/WX20190918-005215@2x.png": "/e-resume/static/media/WX20190918-005215@2x.0fa53d61.png",
+    "static/media/WX20190918-010527@2x.png": "/e-resume/static/media/WX20190918-010527@2x.75eb7c76.png",
+    "static/media/WX20190918-011544@2x.png": "/e-resume/static/media/WX20190918-011544@2x.f334f793.png",
+    "static/media/logo.svg": "/e-resume/static/media/logo.5d5d9eef.svg",
+    "static/media/photo_blog.mp4": "/e-resume/static/media/photo_blog.5180c7eb.mp4",
+    "static/media/屏幕录制 2019-09-18 上午1.08.44.mov": "/e-resume/static/media/屏幕录制 2019-09-18 上午1.08.44.ddf597b6.mov",
+    "static/media/屏幕录制 2019-09-18 上午12.50.16.mov": "/e-resume/static/media/屏幕录制 2019-09-18 上午12.50.16.448fcce6.mov",
+    "static/media/屏幕录制 2019-09-18 上午12.59.54.mov": "/e-resume/static/media/屏幕录制 2019-09-18 上午12.59.54.4bff0b5e.mov"
   }
 }
